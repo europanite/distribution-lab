@@ -53,17 +53,6 @@ export default function HomeScreen() {
       style={{ flex: 1, backgroundColor: "#f8fafc" }}
       contentContainerStyle={{ alignItems: "center", padding: 16, paddingBottom: 56 }}
     >
-      <View style={{ width: "100%", maxWidth: 1180, gap: 18 }}>
-        <View style={{ gap: 6 }}>
-          <Text style={{ fontSize: width < 500 ? 27 : 34, fontWeight: "900", color: "#111827" }}>
-            Distribution Lab
-          </Text>
-          <Text style={{ color: "#4b5563", fontSize: 15, lineHeight: 22, maxWidth: 760 }}>
-            Choose a probability distribution, move its parameters, inspect the equation and curve,
-            then export deterministic sample data without sending anything to a server.
-          </Text>
-        </View>
-
         <DistributionSelector
           distributions={DISTRIBUTIONS}
           selectedId={distribution.id}

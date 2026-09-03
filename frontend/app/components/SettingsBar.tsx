@@ -31,13 +31,17 @@ export default function SettingsBar() {
               fontSize: 24,
               fontWeight: "800",
               marginBottom: 12,
-              color: "#333333ff",
+              color: "rgb(255, 255, 255)",
               textDecorationLine: "underline",
             }}
           >
             Distribution-Lab
           </Text>
         </TouchableOpacity>
+        <Text style={{ color: "#ffffff", fontSize: 15, lineHeight: 22, maxWidth: 760 }}>
+            Choose a probability distribution, move its parameters, inspect the equation and curve,
+            then export deterministic sample data without sending anything to a server.
+        </Text>
       </View>
     </SafeAreaView>
   );

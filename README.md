@@ -1,4 +1,3 @@
-# Distribution Lab
 # [Distribution-Lab](https://github.com/europanite/distribution-lab "Distribution-Lab")
 
 
