@@ -1,0 +1,10 @@
+title: "distribution-lab"
+description: "distribution-lab is a client-side probability distribution visualizer and sampler. It allows users to explore various probability distributions, adjust their parameters, visualize the resulting curves, and export deterministic sample data without sending any information to a server."
+baseurl: "/distribution-lab"
+url: "https://europanite.github.io"
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+highlighter: rouge
