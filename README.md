@@ -9,6 +9,10 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
 
+[![docker](https://github.com/europanite/distribution-lab/actions/workflows/docker.yml/badge.svg)](https://github.com/europanite/distribution-lab/actions/workflows/docker.yml)
+[![CI](https://github.com/europanite/distribution-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/europanite/distribution-lab/actions/workflows/ci.yml)
+[![GitHub Pages](https://github.com/europanite/distribution-lab/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/europanite/distribution-lab/actions/workflows/deploy-pages.yml)
+
 A client-side Expo application for visualizing probability distributions, changing parameters interactively, generating reproducible sample data, and downloading CSV or JSON files.
 
 ---
