@@ -53,6 +53,7 @@ export default function HomeScreen() {
       style={{ flex: 1, backgroundColor: "#f8fafc" }}
       contentContainerStyle={{ alignItems: "center", padding: 16, paddingBottom: 56 }}
     >
+      <View style={{ width: "100%", maxWidth: 1180, gap: 18 }}>
         <DistributionSelector
           distributions={DISTRIBUTIONS}
           selectedId={distribution.id}
