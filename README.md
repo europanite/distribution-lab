@@ -13,6 +13,8 @@
 [![CI](https://github.com/europanite/distribution-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/europanite/distribution-lab/actions/workflows/ci.yml)
 [![GitHub Pages](https://github.com/europanite/distribution-lab/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/europanite/distribution-lab/actions/workflows/deploy-pages.yml)
 
+!["web_ui"](./assets/images/web_ui.png)
+
 A client-side Expo application for visualizing probability distributions, changing parameters interactively, generating reproducible sample data, and downloading CSV or JSON files.
 
 ---
