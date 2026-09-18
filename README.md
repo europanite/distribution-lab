@@ -11,7 +11,7 @@
 
 [![docker](https://github.com/europanite/distribution-lab/actions/workflows/docker.yml/badge.svg)](https://github.com/europanite/distribution-lab/actions/workflows/docker.yml)
 [![CI](https://github.com/europanite/distribution-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/europanite/distribution-lab/actions/workflows/ci.yml)
-[![GitHub Pages](https://github.com/europanite/distribution-lab/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/europanite/distribution-lab/actions/workflows/deploy-pages.yml)
+[![GitHub Pages](https://github.com/europanite/distribution-lab/actions/workflows/pages.yml/badge.svg)](https://github.com/europanite/distribution-lab/actions/workflows/pages.yml)
 
 !["web_ui"](./assets/images/web_ui.png)
 
